@@ -1,4 +1,4 @@
-	/conda/l/:channel/:package
+
   
 # lista-de-tarefas
 
