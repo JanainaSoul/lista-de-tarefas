@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/104031152/224044893-80d4eb4b-2c04-46ff-81f6-57dc92bb3424.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/104031152/224045206-b41fdb55-df06-4a98-a366-ee29ebb410b5.png)
 
 
 # Linguagens
